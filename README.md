@@ -1,8 +1,9 @@
 # PortfolioWebsite
 <br>
 # Reference Info
-<li> IMDB API: https://developer.imdb.com/
-<li> ASP.NET: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0
+  <li> IMDB API: https://developer.imdb.com/
+  <li> ASP.NET: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0
+  <li> https://angular.io/
   
   
 # User story Format
